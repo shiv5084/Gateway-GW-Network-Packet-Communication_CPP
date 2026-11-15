@@ -1,0 +1,33 @@
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# Object files & executables
+*.o
+*.obj
+*.exe
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# CMake temporary files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE and editor files
+.vscode/
+.vs/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System and logs
+*.log
+.DS_Store
+Thumbs.db
